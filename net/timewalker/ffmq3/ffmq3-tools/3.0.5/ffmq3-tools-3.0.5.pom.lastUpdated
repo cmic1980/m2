@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Aug 04 09:38:57 CST 2016
+https\://repo1.maven.org/maven2/.lastUpdated=1470274636060
+https\://gazelle.ihe.net/nexus/content/repositories/thirdparty/.error=Could not transfer artifact net.timewalker.ffmq3\:ffmq3-tools\:pom\:3.0.5 from/to gazelle-3rd-party (https\://gazelle.ihe.net/nexus/content/repositories/thirdparty)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1470274635441
+https\://gazelle.ihe.net/nexus/content/repositories/snapshots/.error=Could not transfer artifact net.timewalker.ffmq3\:ffmq3-tools\:pom\:3.0.5 from/to gazelle-snapshots (https\://gazelle.ihe.net/nexus/content/repositories/snapshots)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+@default-gazelle-3rd-party-https\://gazelle.ihe.net/nexus/content/repositories/thirdparty/.lastUpdated=1470274737057
+@default-gazelle-snapshots-https\://gazelle.ihe.net/nexus/content/repositories/snapshots/.lastUpdated=1470274737819
+https\://repo.maven.apache.org/maven2/.lastUpdated=1470274636244
+https\://repo.maven.apache.org/maven2/.error=
+https\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://repo1.maven.org/maven2/.error=
