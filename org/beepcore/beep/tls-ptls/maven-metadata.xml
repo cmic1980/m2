@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>org.beepcore.beep</groupId>
+  <groupId>org.beepcore</groupId>
   <artifactId>tls-ptls</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0.RELEASE</release>
     <versions>
-      <version>1.0.0</version>
+      <version>1.0.0.RELEASE</version>
     </versions>
-    <lastUpdated>20160811074433</lastUpdated>
+    <lastUpdated>20160811102341</lastUpdated>
   </versioning>
 </metadata>
