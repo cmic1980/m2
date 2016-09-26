@@ -1,0 +1,14 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 16:55:03 CST 2016
+http\://www.sysnetint.com/repository/.lastUpdated=1474878383937
+@legacy-java.net-https\://maven-repository.dev.java.net/nonav/repository/.lastUpdated=1474880103372
+https\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1474878225493
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1474877949508
+http\://dist.codehaus.org/mule/dependencies/maven2/.error=Could not transfer artifact com.sun.jmx\:jmxri\:jar\:1.2.1 from/to for-gwt-incubator (http\://dist.codehaus.org/mule/dependencies/maven2/)\: Connect to dist.codehaus.org\:80 [dist.codehaus.org/52.5.67.234] failed\: Connection timed out\: connect
+http\://www.sysnetint.com/repository/.error=
+@default-for-gwt-incubator-http\://dist.codehaus.org/mule/dependencies/maven2/.lastUpdated=1474879154854
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1474877357836
+https\://repo.maven.apache.org/maven2/.error=
+https\://maven-repository.dev.java.net/nonav/repository/.error=Could not transfer artifact com.sun.jmx\:jmxri\:jar\:1.2.1 from/to java.net (https\://maven-repository.dev.java.net/nonav/repository)\: Cannot access https\://maven-repository.dev.java.net/nonav/repository with type legacy using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repository.jboss.org/nexus/content/groups/public/.error=

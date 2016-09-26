@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 17:06:36 CST 2016
+jmxri-1.2.1.jar>=
+jmxri-1.2.1.pom>central=
+jmxri-1.2.1.pom>alimaven=
