@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Sep 26 17:40:06 CST 2016
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://raw.github.com/cmic1980/openxds/master/m2repo/.error=
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1474882806114
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1474882806258
+https\://raw.github.com/cmic1980/openxds/master/m2repo/.lastUpdated=1474882746009
