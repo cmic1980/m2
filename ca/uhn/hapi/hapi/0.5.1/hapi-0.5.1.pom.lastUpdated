@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 11 11:39:44 CST 2016
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://static.appfuse.org/repository/.lastUpdated=1468204365373
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1468204371634
+http\://download.java.net/maven/2/.lastUpdated=1468204367691
+@default-openxds-https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.lastUpdated=1468208384333
+http\://static.appfuse.org/repository/.error=
+http\://download.java.net/maven/1/.lastUpdated=1468204366601
+http\://download.java.net/maven/2/.error=
+http\://download.java.net/maven/1/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1468204374918
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1468204364845
+https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.error=Could not transfer artifact ca.uhn.hapi\:hapi\:pom\:0.5.1 from/to openxds (https\://openxds.projects.openhealthtools.org/svn/openxds/repo)\: Connect to openxds.projects.openhealthtools.org\:443 [openxds.projects.openhealthtools.org/192.157.208.178] failed\: Connection refused\: connect
