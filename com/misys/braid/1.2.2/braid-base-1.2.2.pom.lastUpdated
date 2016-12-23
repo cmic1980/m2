@@ -1,0 +1,16 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 11 11:13:48 CST 2016
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://static.appfuse.org/repository/.lastUpdated=1468204356575
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1468204359971
+http\://download.java.net/maven/2/.lastUpdated=1468204359048
+@default-openxds-https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.lastUpdated=1468206828444
+http\://static.appfuse.org/repository/.error=
+http\://download.java.net/maven/1/.lastUpdated=1468204357832
+http\://download.java.net/maven/2/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1468204363381
+http\://download.java.net/maven/1/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1468204356047
+http\://repo1.maven.org/maven2/.error=
+https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.error=Could not transfer artifact com.misys.braid\:braid-base\:pom\:1.2.2 from/to openxds (https\://openxds.projects.openhealthtools.org/svn/openxds/repo)\: openxds.projects.openhealthtools.org
