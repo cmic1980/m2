@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 11 13:35:28 CST 2016
+https\://oss.sonatype.org/content/groups/staging/.error=
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.error=
+http\://static.appfuse.org/repository/.lastUpdated=1468204349054
+http\://mirrors.ibiblio.org/pub/mirrors/maven2/.lastUpdated=1468204351673
+http\://download.java.net/maven/2/.lastUpdated=1468204350756
+@default-openxds-https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.lastUpdated=1468210468822
+http\://static.appfuse.org/repository/.error=
+http\://download.java.net/maven/1/.lastUpdated=1468204349901
+http\://download.java.net/maven/2/.error=
+https\://raw.github.com/cmic1980/openxds/master/m2repo/.lastUpdated=1468215328237
+http\://download.java.net/maven/1/.error=
+https\://oss.sonatype.org/content/groups/staging/.lastUpdated=1468204355580
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1468204348518
+https\://openxds.projects.openhealthtools.org/svn/openxds/repo/.error=Could not transfer artifact org.openhealthexchange.openpixpdq\:openpixpdq\:pom\:1.0 from/to openxds (https\://openxds.projects.openhealthtools.org/svn/openxds/repo)\: openxds.projects.openhealthtools.org
